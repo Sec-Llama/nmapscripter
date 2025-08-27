@@ -4,6 +4,11 @@
 # Usage: replace placeholders like <IP>, <CIDR>, <community>, <DC>, <users.txt>.
 # Run with privileges (sudo) for -O, raw sockets, and some UDP probes.
 
+
+# IMPORTANT !!!! -> Don't use any script you don't know what is doing !
+# It can lead to services and systems crashes ! (If you use external non official NSE scripts,\
+# you must extra validate it's legit.
+
 ################################################################################
 # CORE DISCOVERY & OS ID  (Category: discovery,safe,version)
 ################################################################################
